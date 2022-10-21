@@ -1,0 +1,21 @@
+{
+    "skip": [
+        "assets/media/clothing",
+        "assets/media/furniture",
+        "assets/media/music",
+        "assets/media/crumbs",
+        "assets/media/flash",
+        "assets/media/games",
+        "assets/media/igloos",
+        "assets/media/penguin",
+        "assets/media/preload",
+        "assets/media/rooms",
+        "create",
+		"defs",
+		"node_modules",
+		"src",
+		"utils",
+		"webpack_plugins"
+    ],
+    "playUrl": "http://localhost:8080"
+}
